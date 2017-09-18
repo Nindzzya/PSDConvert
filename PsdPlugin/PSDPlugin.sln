@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhotoShop", "PhotoShopFileType\PhotoShop.csproj", "{A04EEDD9-E164-4941-9846-722ACF2FCCA1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "Tests\Tests.csproj", "{37844BEF-D221-438D-8380-D44CF50A5A87}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Convert", "Convert\Convert.csproj", "{1B82C016-A027-4D7C-BAF8-2EA4999D0460}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A04EEDD9-E164-4941-9846-722ACF2FCCA1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A04EEDD9-E164-4941-9846-722ACF2FCCA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A04EEDD9-E164-4941-9846-722ACF2FCCA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A04EEDD9-E164-4941-9846-722ACF2FCCA1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{37844BEF-D221-438D-8380-D44CF50A5A87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37844BEF-D221-438D-8380-D44CF50A5A87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37844BEF-D221-438D-8380-D44CF50A5A87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37844BEF-D221-438D-8380-D44CF50A5A87}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B82C016-A027-4D7C-BAF8-2EA4999D0460}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B82C016-A027-4D7C-BAF8-2EA4999D0460}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B82C016-A027-4D7C-BAF8-2EA4999D0460}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B82C016-A027-4D7C-BAF8-2EA4999D0460}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F9B0F383-18BD-4348-808A-A560EE45C6E0}
+	EndGlobalSection
+EndGlobal
