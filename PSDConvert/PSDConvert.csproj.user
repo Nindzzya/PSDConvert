@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|AnyCPU'">
-    <StartArguments>C:\Users\User\Desktop\STP default:
+    <StartArguments>C:\Users\User\Desktop\Option default:
 #C0C7D9  active:#07AAFF disable:#2F374C hover:#FFFFFF color-1:#2A354E color-2:#2A354E color-3:#0F141F clickdisable:#004F78</StartArguments>
   </PropertyGroup>
 </Project>

@@ -128,6 +128,7 @@ namespace PSDConvert
             }
 
             psdDocument.SaveAs(saveFolder + "\\" + fileInfo.Name);
+            psdDocument.Close();
             Console.Out.WriteLine("Convert Finished, Save to " + saveFolder + "\\" + fileInfo.Name);
         }
 
